@@ -68,9 +68,9 @@ The final grade will be determined on the basis of the following percentages:
   2. Data-driven apps
   3. Final Project: Coding
 
-  
+
 ### Attendance and Instruction
-The instructor reserves the right to postpone or rearrange the presentation of material by making an announcement during a regularly scheduled class meeting.  Examinations will not be moved without announcing the change at least one (1) week prior to the scheduled time. No makeup exams offered unless prior notice was given or medical excuses. The syllabus is a general guideline and does not constitute a contract between the student, instructors and the University. Our attendance policy allows only up to 4 classes to be missed without formal excuse, after four (4) absents, class grade will be affected. 
+The instructor reserves the right to postpone or rearrange the presentation of material by making an announcement during a regularly scheduled class meeting.  Examinations will not be moved without announcing the change at least one (1) week prior to the scheduled time. No makeup exams offered unless prior notice was given or medical excuses. The syllabus is a general guideline and does not constitute a contract between the student, instructors and the University. Our attendance policy allows only up to 4 classes to be missed without formal excuse, after four (4) absents, class grade will be affected.
 
 ### Social Justice and Americans with Disabilities Act
 West Virginia University is committed to social justice.  We concur with that commitment and expect to foster a nurturing learning environment based upon open communication, mutual respect, and non-discrimination.  Our University does not discriminate on the basis of race, sex, age, disability, veteran status, religion, sexual orientation, color or national origin.  Any suggestions as to how to further such a positive and open environment in this class will be appreciated and given serious consideration.
@@ -129,7 +129,7 @@ If you are a person with a disability and anticipate needing any type of accommo
   * Emulator
   * Action Listeners
 * Final: App mockups
- 
+
 #### Weeks 12 - 16
 * Data-driven apps with Parse.com
 * Selected topics relevant to final projects
@@ -138,4 +138,4 @@ If you are a person with a disability and anticipate needing any type of accommo
 ####Student Signature
 Got it?
 
-X: 
+X: Austin Clark
