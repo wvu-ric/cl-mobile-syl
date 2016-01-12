@@ -134,3 +134,8 @@ If you are a person with a disability and anticipate needing any type of accommo
 * Data-driven apps with Parse.com
 * Selected topics relevant to final projects
 * Final: App coding
+
+####Student Signature
+Got it?
+
+X: 
