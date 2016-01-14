@@ -138,4 +138,4 @@ If you are a person with a disability and anticipate needing any type of accommo
 ####Student Signature
 Got it?
 
-X: 
+X: Samuel R. McLaughlin
