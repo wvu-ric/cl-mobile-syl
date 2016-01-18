@@ -5,7 +5,7 @@
 * **Location:** 4th floor  Evansdale Crossing
 * **Date & Time:** Tuesday and Thursday 4:00 - 5:15 PM
 * **Office Hours:** Tuesday and Thursday 3:00 - 4:00 PM
-* **Slack Channel:** https://codelabw16.slack.com (It is highly recommended that you use the Slack channel for questions and discussions. We will not be using eCampus in this class.)
+* **Slack Team:** https://codelabw16.slack.com (It is highly recommended that you use the Slack channel for questions and discussions. We will not be using eCampus in this class.)
 * **Text:** [lynda.com](lynda.com) subscription ($25/Month: Used for duration of class)
 
 ## Course Description
