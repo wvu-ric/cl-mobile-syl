@@ -36,12 +36,12 @@ Upon success completion of this Mobile Application Development course:
 ## Grading System
 The final grade will be determined on the basis of the following percentages:
 
-| Final Grade Breakdown              |  %  |
-|------------------------------------|-----|
-| Attendance and class participation | 25% |
-| Homework                           | 25% |
-| Midterm Exam                       | 25% |
-| Final project and presentation     | 25% |
+| Final Grade Breakdown                                                         |  %  |
+|-------------------------------------------------------------------------------|-----|
+| Attendance and class participation                                            | 25% |
+| Homework and assignments                                                      | 25% |
+| Midterm Exam                                                                  | 25% |
+| [Final project](https://github.com/wvu-ric/cl-mobile-final) and presentation  | 25% |
 
 | Grade | Range  |
 |-------|--------|
