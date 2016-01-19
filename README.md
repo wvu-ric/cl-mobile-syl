@@ -2,6 +2,7 @@
 
 * **Course:** JRL493Z, WVU
 * **Instructors:** Ricky Kirkendall, [rickykirkendall@flocoapps.com](mailto:rickykirkendall@flocoapps.com); Matt Brumley, [matthewbbrumley@gmail.com](mailto:matthewbbrumley@gmail.com)
+* **TA:** Logan Spears, [loganjspears@gmail.com](mailto:loganjspears@gmail.com)
 * **Location:** 4th floor  Evansdale Crossing
 * **Date & Time:** Tuesday and Thursday 4:00 - 5:15 PM
 * **Office Hours:** Tuesday and Thursday 3:00 - 4:00 PM
