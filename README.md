@@ -8,7 +8,7 @@
 * **Office Hours:** Tuesday and Thursday 3:00 - 4:00 PM
 * **Slack Team:** https://codelabw16.slack.com (It is highly recommended that you use the Slack channel for questions and discussions. We will not be using eCampus in this class. Email Ricky for an invitation to the Slack team)
 * **Text:** [lynda.com](lynda.com) subscription ($25/Month: Used for duration of class)
-* **Coding Excercises:** A full list of coding exercises and their corresponding lessons can be found [here](https://github.com/wvu-ric/cl-mobile-ex-map). The coding excercises are meant to be worked on primarily in-class.
+* **Coding Exercises:** A full list of coding exercises and their corresponding lessons can be found [here](https://github.com/wvu-ric/cl-mobile-ex-map). The coding excercises are meant to be worked on primarily in-class.
 
 ## Course Description
 This course will help the student develop the  knowledge and skills necessary to develop mobile Application technology (Apps) on Android and iOS platforms. These skills will allow the student to explore creative, commercial and entrepreneurial opportunities using these skills and their own creativity.
