@@ -8,25 +8,23 @@
 * **Coding Exercises:** A full list of coding exercises and their corresponding lessons can be found [here](https://github.com/wvu-ric/cl-mobile-ex-map). The coding exercises are meant to be worked on primarily in-class.
 
 ## Course Description
-This course will help the student develop the  knowledge and skills necessary to develop mobile Application technology (Apps) on Android and iOS platforms. These skills will allow the student to explore creative, commercial and entrepreneurial opportunities using these skills and their own creativity.
+This course will teach students the fundamental concepts of computer programming. Students will be introduced to their first programming language, Javascript, and taught to recognize and create basic programming constructs such as variables, loops, functions and conditionals. Students will also be exposed to the language-agnostic process of algorithmic thinking. The course ends with an introduction to other languages and a summary of their typical uses.
 
 ## Expected Learning Outcomes
-Upon success completion of this Mobile Application Development course:
+Upon the successful completion of this Introduction to Programming course:
 
-1. Students will understand how the mobile apps are developed on iOS and Android.
-1. Students will understand the concepts  of developing a mobile apps.
-3. Students will understand the major principles related to object oriented programing (OOP) Languages.
-4. Students will determine the the viability of their app ideas.
-5. Students will use industry integrated development environments (IDE) and software development kits (SDK) along with various application programming interfaces (API).
-6. Students will learn to create an application prototype to communicate their vision to investors, customers and other stakeholders.
-7. Student will be able to think critically and conduct feasibility analyses of app ideas on their strengths, weaknesses, opportunities and threats
-8. Students will increase their proficiency in methods of developing applications that are technology driven in the app market.
-9.	Students will have gained experience in working within a team of their peers and mentors during group projects.
+1. Students will understand the difference between compiled and interpreted languages.
+2. Students will understand the use of variables and data types.
+3. Students will understand the use of data structures such as arrays and dictionaries.
+4. Students will understand programmatic control structures such as conditionals
+5. Students will be able to implement programming contructs in Javascript syntax
+6. Students will learn to write modular code through the use of functions.
+7. Students will understand Object Oriented Programming (OOP).
+8. Students will learn to think through algorithms using pseudocode.
+9. Students will be able to identify the correct language needed to build certain types of applications.
 
-## Prerequisites
-
+## Suggested Prerequisites
 - [Math 126](http://www.math.wvu.edu/~mays/126A/syllabus126a.htm) (General Mathematics)
-- [CS101](http://cs101.wvu.edu/media/19544/syllabus.pdf) or have completed 90 credit hours or more.
 
 ## Class Format
 - **Availability of a Lab computers:** Software that is needed for this course will be installed and available on the computers at CodeLab computers. Essential software includes: Java SDK, Android Studio IDE, Android SDK on PC machines and Xcode iOS Objective-C softwares on Mac computers. We recommend you to bring your laptops and install this software on your own laptops.
