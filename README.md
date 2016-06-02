@@ -16,8 +16,8 @@ Upon the successful completion of this Introduction to Programming course:
 1. Students will understand the difference between compiled and interpreted languages.
 2. Students will understand the use of variables and data types.
 3. Students will understand the use of data structures such as arrays and dictionaries.
-4. Students will understand programmatic control structures such as conditionals
-5. Students will be able to implement programming contructs in Javascript syntax
+4. Students will understand programmatic control structures such as conditionals.
+5. Students will be able to implement programming contructs in Javascript syntax.
 6. Students will learn to write modular code through the use of functions.
 7. Students will understand Object Oriented Programming (OOP).
 8. Students will learn to think through algorithms using pseudocode.
@@ -27,16 +27,15 @@ Upon the successful completion of this Introduction to Programming course:
 - [Math 126](http://www.math.wvu.edu/~mays/126A/syllabus126a.htm) (General Mathematics)
 
 ## Class Format
-- **Availability of a Lab computers:** Software that is needed for this course will be installed and available on the computers at CodeLab computers. Essential software includes: Java SDK, Android Studio IDE, Android SDK on PC machines and Xcode iOS Objective-C softwares on Mac computers. We recommend you to bring your laptops and install this software on your own laptops.
-- **Flipped Classroom:** Instructional content in this course will be primarily delivered through online modules. In class time will be used for exercises, discussions and project-based learning.
+- **Online:** Instructional content in this course will be primarily delivered through online video lectures. Each exercise corresponds to chapter of the lecture series. Students should watch through each chapter before attempting the exercises. The professor will be available for questions via Blackboard message boards. All videos and exercises will be available during the entire duration of the course. All exercises will be due at the end of the 3-week course, but students are strongly encouraged to keep up with recommended schedule.
 
 ## Grading System
 The final grade will be determined on the basis of the following percentages:
 
 | Final Grade Breakdown                                                         |  %  |
 |-------------------------------------------------------------------------------|-----|
-| Attendance and class participation                                            | 25% |
-| Homework and assignments                                                      | 25% |
+| Tech News Postings                                                            | 20% |
+| Programming Exercises                                                         | % |
 | Midterm Exam                                                                  | 25% |
 | [Final project](https://github.com/wvu-ric/cl-mobile-final) and presentation  | 25% |
 
