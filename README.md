@@ -32,12 +32,20 @@ Upon the successful completion of this Introduction to Programming course:
 ## Grading System
 The final grade will be determined on the basis of the following percentages:
 
-| Final Grade Breakdown                                                         |  %  |
-|-------------------------------------------------------------------------------|-----|
-| Tech News Postings                                                            | 20% |
-| Programming Exercises                                                         | % |
-| Midterm Exam                                                                  | 25% |
-| [Final project](https://github.com/wvu-ric/cl-mobile-final) and presentation  | 25% |
+| Grade Breakdown    | %   |
+|--------------------|-----|
+| Tech News Posts    | 12% |
+| Hello World        | 8%  |
+| Greeting           | 8%  |
+| Add                | 8%  |
+| Fever              | 8%  |
+| Calculate          | 8%  |
+| PIN Guess          | 8%  |
+| Add (NaN check)    | 8%  |
+| Palindrome         | 8%  |
+| List               | 8%  |
+| Pseudocode Sort    | 8%  |
+| Picking a Language | 8%  |
 
 | Grade | Range  |
 |-------|--------|
