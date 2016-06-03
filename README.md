@@ -16,7 +16,7 @@ Upon the successful completion of this Introduction to Programming course:
 2. Students will understand the use of variables and data types.
 3. Students will understand the use of data structures such as arrays and dictionaries.
 4. Students will understand programmatic control structures such as conditionals.
-5. Students will be able to implement programming contructs in Javascript syntax.
+5. Students will be able to implement programming constructs in Javascript syntax.
 6. Students will learn to write modular code through the use of functions.
 7. Students will understand Object Oriented Programming (OOP).
 8. Students will learn to think through algorithms using pseudocode.
@@ -28,7 +28,7 @@ Upon the successful completion of this Introduction to Programming course:
 ## Course Format
 - **News Posts:** Technology is constantly evolving. Keeping up with the fast-paced industry is key to staying relevant. One good news resource is [Hacker News](https://news.ycombinator.com/). Hacker News is a crowdsourced news site ran by the YCombinator startup incubator. While the post topics range from startups to foreign policy, a majority of them are on computer science and programming. Your job is to keep up with Hacker News and post articles you find interesting on the course message boards. Include a comment about why you're interested in what you posted or your opinion on the subject. **You are required to make 2 posts per week**.
 
-- **Exercises:** Instructional content in this course will be primarily delivered through online video lectures. All content wil be hosted on the Blackboard course page. Each exercise corresponds to chapter of the lecture series. Students should watch through each chapter before attempting the exercises. The professor will be available for questions via Blackboard message boards. All videos and exercises will be available for the entire duration of the course. All exercises will be due at the end of the 3-week course, but students are strongly encouraged to keep up with recommended schedule.
+- **Exercises:** Instructional content in this course will be primarily delivered through online video lectures. All content will be hosted on the Blackboard course page. Each exercise corresponds to chapter of the lecture series. Students should watch through each chapter before attempting the exercises. The professor will be available for questions via Blackboard message boards. All videos and exercises will be available for the entire duration of the course. All exercises will be due at the end of the 3-week course, but students are strongly encouraged to keep up with recommended schedule.
 
 ## Grading System
 The final grade will be determined on the basis of the following percentages:
@@ -59,7 +59,7 @@ The final grade will be determined on the basis of the following percentages:
 ### Exercise Grading System
 | Criteria               | Description                                         | %       |
 |------------------------|-----------------------------------------------------|---------|
-| Excercise attempted    |                                                     | + 2%    |
+| Exercise attempted    |                                                     | + 2%    |
 | Each major logic error | Logic is unclear or incorrect                       | - 2 %   |
 | Each minor logic error | Logic is mostly there but doesn't handle edge cases | - 1 %   |
 | Each syntax error      | Invalid syntax                                      | - 0.5 % |
@@ -71,7 +71,7 @@ The final grade will be determined on the basis of the following percentages:
   3. Writing source code
   4. Compiled and interpreted languages
 1. Core Programming Syntax
-  1. Why Javscript?
+  1. Why Javascript?
   2. Creating your first program in Javascript
   3. Requesting input
 1. Variables and Data Types
@@ -122,7 +122,7 @@ The final grade will be determined on the basis of the following percentages:
 2. Introduction to Object Orientation
   1. Introduction to object-oriented languages
   2. Using classes and objects
-  3. Revieweing object-oriented languages
+  3. Reviewing object-oriented languages
 3. Advanced Topics
   1. Memory management across languages
   2. Introduction to algorithms
