@@ -147,65 +147,19 @@ West Virginia University is committed to social justice.  We concur with that c
 WVU recognizes the diversity of its students and the needs of those who wish to be absent from class to participate in Days of Special Concern, which are listed in the Schedule of Courses.  Students should notify their instructors by the end of the second week of classes or prior to the first Day of Special Concern, whichever is earlier, regarding Day of Special Concern observances that will affect their attendance.  The instructor will make reasonable accommodation for tests or field trips that a student misses as a result of observing a Day of Special Concern.
 If you are a person with a disability and anticipate needing any type of accommodation in order to participate in this class, please advise us and make appropriate arrangements with Disability Services (293-6700).
 
-## Course Schedule
+## Suggested Course Schedule
+### [Foundations of Programming: Fundamentals (Javascript)](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
+#### Week 1
+* **Chapter 2:** [Hello World](https://github.com/wvu-ric/cl-mobile-js-hello), [Greeting](https://github.com/wvu-ric/cl-mobile-js-greeting)
+* **Chapter 3:** [Add](https://github.com/wvu-ric/cl-mobile-js-add)
+* **Chapter 4:** [Fever](https://github.com/wvu-ric/cl-mobile-js-fever)
+#### Week 2
+* **Chapter 5:** [Calculate](https://github.com/wvu-ric/cl-mobile-js-calculate)
+* **Chapter 6:** [PIN Guess](https://github.com/wvu-ric/cl-mobile-js-pinguess)
+* **Chapter 7:** [Add (add NaN checking for inputs)](https://github.com/wvu-ric/cl-mobile-js-add), [Palindrome](https://github.com/wvu-ric/cl-mobile-js-palindrome)
+#### Week 3
+* **Chapter 8:** [List](https://github.com/wvu-ric/cl-mobile-js-list)
+* **Chapter 13:** [Pseudocode Sorting](https://github.com/wvu-ric/cl-algo-pseudosort)
+* **Chapter 14:** [Picking a Language](https://github.com/wvu-ric/cl-js-otherlangs)
 
-#### Weeks 1 - 4
-* Introduction
-* How to use GitHub
-* Final: App Proposals
-* Programming Language Concepts:
-* Syntax
-* Variables
-* Data types
-* Operations
-* Conditionals
-* Functions
-* Iterations
-* Strings
-* Collections
-* Style
-* I/O
-* Debugging
-* OOP Thinking
-* Intro to algorithms
-
-#### Weeks 4 - 8
-* Xcode
-  * iOS Simulator
-  * Writing Code
-  * Building Code
-  * Debugging Code
-* Objective-C Concepts
-* Android Studio
-  * Writing Code
-  * Bulding Projects
-  * Debugging Tools
-* Java Concepts
-* Final: Technical Description- Applying programming concepts to app ideas
-
-#### Weeks 8 - 12
-* Prototyping
-* iOS
-  * MVC Structure
-  * UI Elements
-  * Storyboards
-  * View Controllers
-  * Navigation
-* Android
-  * MVC
-  * Java Style
-  * UI elements
-  * Interface Builder
-  * Emulator
-  * Action Listeners
-* Final: App mockups
- 
-#### Weeks 12 - 16
-* Data-driven apps with Parse.com
-* Selected topics relevant to final projects
-* Final: App coding
-
-####Student Signature
-Got it?
-
-X: 
+The other chapters in this series are required but do not have corresponding exercises.
