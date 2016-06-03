@@ -26,8 +26,10 @@ Upon the successful completion of this Introduction to Programming course:
 ## Suggested Prerequisites
 - [Math 126](http://www.math.wvu.edu/~mays/126A/syllabus126a.htm) (General Mathematics)
 
-## Class Format
-- **Online:** Instructional content in this course will be primarily delivered through online video lectures. Each exercise corresponds to chapter of the lecture series. Students should watch through each chapter before attempting the exercises. The professor will be available for questions via Blackboard message boards. All videos and exercises will be available during the entire duration of the course. All exercises will be due at the end of the 3-week course, but students are strongly encouraged to keep up with recommended schedule.
+## Course Format
+- **News Posts:** Technology is constantly evolving. Keeping up with the fast-paced industry is key to staying relevant. One good news resource is [Hacker News](https://news.ycombinator.com/). Hacker News is a crowdsourced news site ran by the YCombinator startup incubator. While the post topics range from startups to foreign policy, a majority of them are on computer science and programming. Your job is to keep up with Hacker News and post articles you find interesting on the course message boards. Include a comment about why you're interested in what you posted or your opinion on the subject. **You are required to make 2 posts per week**.
+
+- **Exercises:** Instructional content in this course will be primarily delivered through online video lectures. All content wil be hosted on the Blackboard course page. Each exercise corresponds to chapter of the lecture series. Students should watch through each chapter before attempting the exercises. The professor will be available for questions via Blackboard message boards. All videos and exercises will be available for the entire duration of the course. All exercises will be due at the end of the 3-week course, but students are strongly encouraged to keep up with recommended schedule.
 
 ## Grading System
 The final grade will be determined on the basis of the following percentages:
@@ -54,6 +56,10 @@ The final grade will be determined on the basis of the following percentages:
 | C     | 70-79% |
 | D     | 60-69% |
 | F     | ≤ 59%  |
+
+### Exercise Grading System
+| Excercise was attempted |  | 2% |
+| Major logic error | The logic is completely incorrect
 
 ### Course Outline
 1. Foundations of Prorgamming
