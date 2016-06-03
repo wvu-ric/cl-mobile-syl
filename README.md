@@ -149,15 +149,21 @@ If you are a person with a disability and anticipate needing any type of accommo
 
 ## Suggested Course Schedule
 ### [Foundations of Programming: Fundamentals (Javascript)](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
+
 #### Week 1
+
 * **Chapter 2:** [Hello World](https://github.com/wvu-ric/cl-mobile-js-hello), [Greeting](https://github.com/wvu-ric/cl-mobile-js-greeting)
 * **Chapter 3:** [Add](https://github.com/wvu-ric/cl-mobile-js-add)
 * **Chapter 4:** [Fever](https://github.com/wvu-ric/cl-mobile-js-fever)
+
 #### Week 2
+
 * **Chapter 5:** [Calculate](https://github.com/wvu-ric/cl-mobile-js-calculate)
 * **Chapter 6:** [PIN Guess](https://github.com/wvu-ric/cl-mobile-js-pinguess)
 * **Chapter 7:** [Add (add NaN checking for inputs)](https://github.com/wvu-ric/cl-mobile-js-add), [Palindrome](https://github.com/wvu-ric/cl-mobile-js-palindrome)
+
 #### Week 3
+
 * **Chapter 8:** [List](https://github.com/wvu-ric/cl-mobile-js-list)
 * **Chapter 13:** [Pseudocode Sorting](https://github.com/wvu-ric/cl-algo-pseudosort)
 * **Chapter 14:** [Picking a Language](https://github.com/wvu-ric/cl-js-otherlangs)
