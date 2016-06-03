@@ -58,8 +58,12 @@ The final grade will be determined on the basis of the following percentages:
 | F     | ≤ 59%  |
 
 ### Exercise Grading System
-| Excercise was attempted |  | 2% |
-| Major logic error | The logic is completely incorrect
+| Criteria               | Description                                         | %       |
+|------------------------|-----------------------------------------------------|---------|
+| Excercise attempted    |                                                     | + 2%    |
+| Each major logic error | Logic is unclear or incorrect                       | - 2 %   |
+| Each minor logic error | Logic is mostly there but doesn't handle edge cases | - 1 %   |
+| Each syntax error      | Invalid syntax                                      | - 0.5 % |
 
 ### Course Outline
 1. Foundations of Prorgamming
