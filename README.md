@@ -66,22 +66,77 @@ The final grade will be determined on the basis of the following percentages:
 | Each syntax error      | Invalid syntax                                      | - 0.5 % |
 
 ### Course Outline
-1. Foundations of Prorgamming
-  1. Introduction
-  1. First programming language
-  1. Final Project: Submit app proposal
-1. Mobile App Development for iOS and Android Part 1
-  1. Mobile Programming Language: Choose iOS or Android
-  2. Developer tools
-  3. Final Project: Technical description
-1. Mobile App Development for iOS and Android Part 2
-  1. Mobile app user interfaces
-  2. Mobile app design
-  3. Final Project: App mockups
-1.  Final Project
-  1. Selected topics
-  2. Data-driven apps
-  3. Final Project: Coding
+1. Programming Basics
+  1. What is programming?
+  2. What is a programming language?
+  3. Writing source code
+  4. Compiled and interpreted languages
+1. Core Programming Syntax
+  1. Why Javscript?
+  2. Creating your first program in Javascript
+  3. Requesting input
+1. Variables and Data Types
+  1. Introduction to variables and data types
+  2. Understanding strong, weak and duck-typed languages
+  3. Working with numbers
+  4. Using characters and strings
+  5. Working with operators
+  6. Properly using white space
+  7. Adding comments to code
+1. Writing Conditional Code
+  1. Building with the if statement
+  2. Working with complex conditions
+  3. Setting comparison operators
+  4. Using the switch statement
+1. Modular Code
+  1. Breaking your code apart
+  2. Creating and calling functions
+  3. Setting parameters and arguments
+  4. Understanding variable scope
+  5. Splitting code into different files
+1. Iteration: Writing Loops
+  1. Introduction to iteration
+  2. Writing a while statement
+  3. Creating a for loop
+1. More About Strings
+  1. Cleaning up with string concatenation
+  2. Finding patterns in strings
+  3. Introduction to regular expressions
+1. Collections
+  1. Working with arrays
+  2. Array behavior
+  3. Iterating through collections
+  4. Collections in other languages
+1. Programming Style
+  1. Programming style
+  2. Writing pseudocode
+2. Input and Output
+  1. Input/output and persistence
+  2. Reading and writing from the DOM
+  3. Event driven programming
+  4. Introduction to file I/O
+1. When Things Go Wrong
+  1. Introduction to debugging
+  2. Tracing through a section of code
+  3. Understanding error messages
+  4. Using debuggers
+2. Introduction to Object Orientation
+  1. Introduction to object-oriented languages
+  2. Using classes and objects
+  3. Revieweing object-oriented languages
+3. Advanced Topics
+  1. Memory management across languages
+  2. Introduction to algorithms
+  3. Introduction to multithreading
+4. Exploring the Languages
+  1. Introduction to languages
+  2. C-based languages
+  3. The Java world
+  4. .NET languages: C# and Visual Basic .NET
+  5. Ruby
+  6. Python
+  7. Objective-C
+  8. Libraries and Frameworks
 
   
 ### Attendance and Instruction
