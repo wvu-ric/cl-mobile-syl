@@ -3,7 +3,6 @@
 * **Course:** JRL293, WVU
 * **Instructors:** Ricky Kirkendall, [rickykirkendall@flocoapps.com](mailto:rickykirkendall@flocoapps.com)
 * **Location:** Online
-* **Slack Team:** https://codelabw16.slack.com (It is highly recommended that you use the Slack channel for questions and discussions. We will not be using eCampus in this class. Email Ricky for an invitation to the Slack team)
 * **Text:** [lynda.com](lynda.com) subscription ($25/Month: Used for duration of class)
 * **Coding Exercises:** A full list of coding exercises and their corresponding lessons can be found [here](https://github.com/wvu-ric/cl-mobile-ex-map). The coding exercises are meant to be worked on primarily in-class.
 
